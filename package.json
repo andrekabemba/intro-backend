@@ -1,0 +1,23 @@
+{
+  "name": "intro-backend",
+  "version": "1.0.0",
+  "description": "un projet initial backend ",
+  "homepage": "https://github.com/andrekabemba/intro-backend#readme",
+  "bugs": {
+    "url": "https://github.com/andrekabemba/intro-backend/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andrekabemba/intro-backend.git"
+  },
+  "license": "ISC",
+  "author": "André",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
